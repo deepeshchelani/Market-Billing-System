@@ -2,7 +2,8 @@
 
 This repository contains a billing system utility to help manage finances easily whenever we are out there in market for any grocery shopping.
      
-![Capture](https://user-images.githubusercontent.com/90500539/176666880-ff1e15fb-9eea-4b37-8916-6524a20a02a4.PNG)
+![Capture](https://user-images.githubusercontent.com/90500539/176669187-d666d034-7663-43d1-8e47-21359fde718a.PNG)
+
 
 
 
